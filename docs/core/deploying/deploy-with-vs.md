@@ -48,7 +48,7 @@ Deploying a framework-dependent deployment with no third-party dependencies simp
 
       1. Change the solution configuration from **Debug** to **Release** on the toolbar to build a Release (rather than a Debug) version of your app.
 
-      1. Right-click on the project (not the solution) in **Solution Explorer**, and select **Publish**.
+      1. Right-click on the project (not the solution) in **Solution Explorer**, and select **Properties**.
 
       1. In the **Publish** tab, select **Publish**. Visual Studio writes the files that comprise your application to the local file system.
 
